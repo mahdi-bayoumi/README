@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋 </br>
   WELCOME
 </h1>
-  
-</h1>![](animation.gif)
+<img src="https://github.com/mahdi-bayoumi/Readme.git/animation.gif"/>
 
