@@ -1,3 +1,4 @@
-<h1 align="center"> Mohammad Mahdi bayoumi</h1>
+<h1 align="center"> Mohammad Mahdi bayoumi</br>
+  ![](animation.gif)</h1>
 
-![](animation.gif)
+
